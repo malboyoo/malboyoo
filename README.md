@@ -1,5 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! 👋 Nice to see you.</h1>
 
+---
+
 <p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bordeaux, France</b>.</p>
 <h4>#OPEN TO WORK</h4>
 
