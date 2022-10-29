@@ -35,18 +35,18 @@
       <td><p>It was my one of my best experience with code, i learnt a lot of new things! technologies i used here: <b>NodeJS Express, mongoDB & mongoose.</b></p></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/malboyoo/P5"><b>Openclassrooms - Project 5 (E-commerce) (</b></a></td>
+      <td><a href="https://github.com/malboyoo/P5"><b>Openclassrooms - Project 5 (E-commerce)</b></a></td>
       <td><p>Project 5 certifying training from Openclassrooms, i made all the <b>JavaScript</b> part, it was focused on interacting with the API, manage a cart, error handling of inputs. </p></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/malboyoo/P3"><b>Openclassrooms - Project 3</b></a></td>
+      <td><a href="https://github.com/malboyoo/P3"><b>Openclassrooms - Project 3 (advanced CSS animation)</b></a></td>
       <td><p>Project 3 certifying training from Openclassrooms, Mobile-first and Advanced css animation oriented, i learn a lot of thinks about css here.</p></td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/malboyoo/base-apparel-coming-soon"><b>frontendmentor - Base-apparel-coming-soon</b></a>
         <a href="https://github.com/malboyoo/article-preview-component"><b>frontendmentor - Article-preview-component</b></a>
-        <a href="https://github.com/malboyoo/advice-generator"><b>frontendmentor - Advice-generator</b></a>
+        <a href="https://github.com/malboyoo/advice-generator"><b>frontendmentor - Advice-generator</b></a><br/>
         <a href="https://github.com/malboyoo/expenses-chart-component"><b>frontendmentor - Expenses-chart-component</b></a>
       </td>
       <td><p>Here you can find a lot of small project made with frontendmentor, works with: <b>JavaScript, Sass, TypeScript</b></p></td>
@@ -75,8 +75,8 @@ also practice running intensively (around ~80km per week), I love the competitiv
 I'm also an user and lover of the Blockchain technologie, especially Ethereum and Solana.</p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/malboyoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thibaut-lefevre-b60101117/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-![](https://dcbadge.vercel.app/api/shield/146857427390824448)
+<p><a href="https://github.com/malboyoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thibaut-lefevre-b60101117/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://dcbadge.vercel.app/api/shield/146857427390824448" /> 
 </p>
 
 ---
