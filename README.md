@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! 👋 Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bordeaux, France</b>.</p>
 <h4>#OPEN TO WORK</h4>
@@ -76,8 +76,7 @@ I'm also an user and lover of the Blockchain technologie, especially Ethereum an
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/malboyoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thibaut-lefevre-b60101117/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://dcbadge.vercel.app/api/shield/146857427390824448" />
-<a href="https://www.codingame.com/profile/cb8f7ee433b9ee681c9b06a79c0669262406244" target="_blank"><img alt="Codingame" src="https://upload.wikimedia.org/wikipedia/fr/1/14/CodinGame_Logo.svg" style="height: 28px;" /></a>
+<img src="https://dcbadge.vercel.app/api/shield/146857427390824448" /> <a href="https://www.codingame.com/profile/cb8f7ee433b9ee681c9b06a79c0669262406244" target="_blank"><img alt="Codingame" src="https://upload.wikimedia.org/wikipedia/fr/1/14/CodinGame_Logo.svg" style="height: 30px;" /></a>
 
 </p>
 
