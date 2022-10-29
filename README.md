@@ -75,13 +75,13 @@
 
 <h2>About me</h2>
 
-<h3>> Code💻 <</h3>
+<h3>• Code 💻</h3>
 <p>I start coding with Python in mid-2021, i loved it! then i decide to focus web related developpment since january 2022, most of the time with <a href="https://dyma.fr/"><b>Dyma</b></a>  and <a href="https://openclassrooms.com/"><b>Openclassrooms</b></a>.
 I start a web-developer <a href="https://openclassrooms.com/fr/paths/717-developpeur-web"><b>certifying training with  Openclassrooms</b></a> in august, ill be available to work early 2023.
 In my project you will find my current formation projects and other stuff i made in my free time.<br/>
 I also start to put some interest about <b>Web3 (solidity)</b>, but for the moment i prefer to be focused in my main stack.</p>
 
-<h3>> Life🏃‍ <</h3>
+<h3>• Life 🏃‍</h3>
 <p>My name is Thibaut and I'm 33 years old, I'm a big fan of online games and recently I like to code in my free time!
 also practice running intensively (around ~80km per week), I love the competitive aspect and it allows me to stay in shape.
 I'm also an user and lover of the Blockchain technologie, especially Ethereum and Solana.</p>
