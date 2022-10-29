@@ -1,9 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! 👋 Nice to see you.</h1>
 
----
+<p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
+<h4 style="color: green;">CURRENTLY OPEN TO WORK</h4>
 
-<p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bordeaux, France</b>.</p>
-<h4>#OPEN TO WORK</h4>
+<hr>
 
 <h3>Things I code with</h3>
 <p>
@@ -13,7 +13,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -23,7 +22,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Project i made</h3>
+<hr>
+
+<h3>Project I made</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -64,19 +65,23 @@
   </tbody>
 </table>
 
+<hr>
+
 <h2>About me</h2>
 
-<h3>Code</h3>
+<h3 style="text-decoration: underline; color: yellow;">Code</h3>
 <p>I start coding with Python in mid-2021, i loved it! then i decide to focus web related developpment since january 2022, most of the time with <a href="https://dyma.fr/"><b>Dyma</b></a>  and <a href="https://openclassrooms.com/"><b>Openclassrooms</b></a>.
 I start a web-developer <a href="https://openclassrooms.com/fr/paths/717-developpeur-web"><b>certifying training with  Openclassrooms</b></a> in august, ill be available to work early 2023.
 In my project you will find side project and other i made for my formation.</p>
 
-<h3>Life</h3>
+<h3 "text-decoration: underline; color: yellow;">Life</h3>
 <p>My name is Thibaut and I'm 33 years old, I'm a big fan of online games and recently I like to code in my free time!
 also practice running intensively (around ~80km per week), I love the competitive aspect and it allows me to stay in shape.
 I'm also an user and lover of the Blockchain technologie, especially Ethereum and Solana.</p>
 
-<h3>Where to find me</h3>
+<hr>
+
+<h3 style="text-decoration: underline; color: yellow;">Where to find me</h3>
 <p><a href="https://github.com/malboyoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thibaut-lefevre-b60101117/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://dcbadge.vercel.app/api/shield/146857427390824448" /> <a href="https://www.codingame.com/profile/cb8f7ee433b9ee681c9b06a79c0669262406244" target="_blank"><img alt="Codingame" src="https://upload.wikimedia.org/wikipedia/fr/1/14/CodinGame_Logo.svg" style="height: 30px;" /></a>
 
