@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/malboyoo/P6"><b>Openclassrooms - Project 6 (back-end API)</b></a></td>
+      <td><a href="https://github.com/malboyoo/P6-API"><b>Openclassrooms - Project 6 (back-end API)</b></a></td>
       <td><p>It was my one of my best experience with code, i learnt a lot of new things! technologies i used here: <b>NodeJS, Express, mongoDB & mongoose.</b></p></td>
     </tr>
     <tr>
