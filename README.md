@@ -1,9 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! 👋 Nice to see you.</h1>
 	<br/>
 	<br/>
-<p style="font-size: 20px;">Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
-<p style="font-size: 20px;">Actually in the end of my certifying training program and i'll be <b>available to work in December 2022.</b> 🐱‍💻<p>
-<p><i><small>Edit: I just finished the last project of my training project!</small></i>
+<p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
+<p>Actually in the end of my certifying training program and i'll be <b>available to work in December 2022.</b> 🐱‍💻<p>
+<i><small>Edit: I just finished the last project of my training project!</small></i>
 
 <p>take a look at my <a href="CV_Thibaut_Lefevre.pdf">Resume</a>📓, Made with HTML/CSS and exported in PDF.</p>
 
