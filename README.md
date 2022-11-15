@@ -44,7 +44,7 @@
     <tr>
       <td><a href="https://github.com/malboyoo/P6-API"><b>Openclassrooms - Project 6 (secure back-end API)</b></a></td>
       <td><p>It was my one of my best experience with code, i learnt a lot of new things! technologies i used here: <b>NodeJS, Express, mongoDB & mongoose.</b></p>
-	  <p><i>Remember it was for training purpose, database and secret-key are volontary public</i></p></td>
+	  <p><i>Remember it was for training purpose, database and secret-key are voluntary public</i></p></td>
     </tr>
     <tr>
       <td><a href="https://github.com/malboyoo/P5"><b>Openclassrooms - Project 5 (E-commerce)</b></a></td>
