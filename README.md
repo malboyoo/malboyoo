@@ -45,6 +45,7 @@
       <td><p><a href="https://github.com/malboyoo/P7"><b>Openclassrooms - Project 7 (React)</b></a></p>
 	      <p><a href="https://warm-manatee-d0851e.netlify.app/">Site preview</a></p></td>
       <td><p>my first experience with <b>React 18</b>, it is not so complex, perfect for training the basics.</p>
+	      <p><a href="https://www.figma.com/file/HMxlacicQ9ZRkYdde09VeC/UI-Design-Kasa-FR-(Copy)">figma guideline</a></p>
 	 </td>
     </tr>
     <tr>
