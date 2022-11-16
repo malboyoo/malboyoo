@@ -52,8 +52,8 @@
     </tr>
 	  <tr>
       	<td>
-	      <a href="https://github.com/malboyoo/P3"><b>Openclassrooms - Project 3 (advanced CSS animation)</b></a>
-		<a href="https://remarkable-cannoli-7036de.netlify.app/"> Site preview </a>
+	      <p><a href="https://github.com/malboyoo/P3"><b>Openclassrooms - Project 3 (advanced CSS animation)</b></a></p>
+		<p><a href="https://remarkable-cannoli-7036de.netlify.app/"> Site preview </a></p>
 	</td>
       <td><p>Project 3 certifying training from Openclassrooms, Mobile-first and Advanced css animation oriented, i learn a lot of thinks about css here.</p></td>
     </tr>
