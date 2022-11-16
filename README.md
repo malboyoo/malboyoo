@@ -51,7 +51,10 @@
       <td><p>Project 5 certifying training from Openclassrooms, i made all the <b>JavaScript</b> part, it was focused on interacting with the API, manage a cart, error handling of inputs. </p></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/malboyoo/P3"><b>Openclassrooms - Project 3 (advanced CSS animation)</b></a></td>
+      	<td>
+	      <a href="https://github.com/malboyoo/P3"><b>Openclassrooms - Project 3 (advanced CSS animation)</b></a>
+		<a href="https://remarkable-cannoli-7036de.netlify.app/"> > preview </a>
+	</td>
       <td><p>Project 3 certifying training from Openclassrooms, Mobile-first and Advanced css animation oriented, i learn a lot of thinks about css here.</p></td>
     </tr>
     <tr>
