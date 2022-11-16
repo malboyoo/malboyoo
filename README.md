@@ -3,9 +3,9 @@
 	<br/>
 <p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
 <p>Actually in the end of my certifying training program and i'll be <b>available to work in December 2022.</b> 🐱‍💻<p>
-<i>Edit: I just finished the last project of my training program!</i>
-
 <p>take a look at my <a href="CV_Thibaut_Lefevre.pdf">Resume</a>📓, Made with HTML/CSS and exported in PDF.</p>
+
+<p><b>Current status:</b> <i>I just finihed last project of my certifying training program. now i'm focused on improving my react skill, then i will work on a personal project.</i></p>
 
 <br/>
 <br/>
