@@ -41,6 +41,11 @@
     </tr>
   </thead>
   <tbody>
+	<tr>
+      <td><a href="https://github.com/malboyoo/P7"><b>Openclassrooms - Project 7 (React)</b></a></td>
+      <td><p>my first experience with <b>React 18</b>, it is not so complex, perfect for training the basics.</p>
+	 </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/malboyoo/P6-API"><b>Openclassrooms - Project 6 (secure back-end API)</b></a></td>
       <td><p>It was my one of my best experience with code, i learnt a lot of new things! technologies i used here: <b>NodeJS, Express, mongoDB & mongoose.</b></p>
