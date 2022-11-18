@@ -115,5 +115,5 @@ I'm also an user and lover of the Blockchain technologie, especially Ethereum an
 
 ---
 
-<a href="https://app.daily.dev/Malboyoo"><img src="https://api.daily.dev/devcards/0aaf2138688945e6820b3927786b9b3a.png?r=c6i" width="400" alt="Thibaut Lefevre's Dev Card"/></a>
+<a href="https://app.daily.dev/Malboyoo"><img src="https://github.com/malboyoo/malboyoo/blob/main/devcard.svg" width="300" alt="Thibaut Lefevre's Dev Card"/></a>
 
