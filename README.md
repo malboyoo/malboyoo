@@ -1,3 +1,4 @@
+
 <h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! 👋 Nice to see you.</h1>
 	<br/>
 	<br/>
@@ -6,6 +7,9 @@
 <p>take a look at my <a href="CV_Thibaut_Lefevre.pdf">Resume</a>📓, Made with HTML/CSS and exported in PDF.</p>
 
 <p><b>Current status:</b> <i>I just finished last project of my certifying training program. now i'm focused on improving my react skill, then i will work on a fullstack personal project.</i></p>
+
+
+
 
 <br/>
 <br/>
@@ -110,3 +114,6 @@ I'm also an user and lover of the Blockchain technologie, especially Ethereum an
 </p>
 
 ---
+
+<a href="https://app.daily.dev/Malboyoo"><img src="https://api.daily.dev/devcards/0aaf2138688945e6820b3927786b9b3a.png?r=c6i" width="400" alt="Thibaut Lefevre's Dev Card"/></a>
+
