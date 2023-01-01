@@ -6,7 +6,9 @@
 <p>Actually in the end of my certifying training program and i'll be <b>available to work in December 2022.</b> 🐱‍💻<p>
 <p>take a look at my <a href="CV - Thibaut Lefevre.pdf">Resume</a>📓, Made with HTML/CSS and exported in PDF.</p>
 
-<p><b>Current status:</b> <i>I just finished last project of my certifying training program. now i'm focused on improving my react skill, then i will work on a fullstack personal project.</i></p>
+<p><b>Current status: Open to work!</b> <i> I just finished last project of my certifying training program.
+</i></p>
+<p><i> I also finished a personnal project, you can check it here: <a href="https//runtogether.fr">runtogether.fr</a></p></i>
 
 
 
@@ -23,6 +25,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 	<br />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -45,6 +48,15 @@
     </tr>
   </thead>
   <tbody>
+	<tr>
+      <td><p><a href="https://github.com/malboyoo/runtogether-front"><b>runtogether.fr - fullstack personnal project</b></a></p>
+	      <p> <a href="https//runtogether.fr">site preview: runtogether.fr</a></p></td>
+      <td><p>A personnal project made with the MERN stack (MongoDB, Express, React, NodeJS)</p>
+	      <p>I learned a lot with this project, having to manage all parts of the project alone was a real challenge. you can have a look to the front-end but for security issues the back-end will remain private (if you are recruiter you can ask an access)</p>
+	 </td>
+    </tr>
+	  
+	  
 	<tr>
       <td><p><a href="https://github.com/malboyoo/P7"><b>Openclassrooms - Project 7 (React)</b></a></p>
 	      <p><a href="https://warm-manatee-d0851e.netlify.app/">Site preview</a></p></td>
