@@ -8,7 +8,7 @@
 
 <p><b>Current status: Open to work!</b> <i> I just finished last project of my certifying training program.
 </i></p>
-<p><i> I also finished a personnal project, you can check it here: <a href="https//runtogether.fr">runtogether.fr</a></p></i>
+<p><i> I also finished a personnal project, you can check it here: <a href="https//runtogether.fr">runtogether.fr</a></i></p>
 
 
 
