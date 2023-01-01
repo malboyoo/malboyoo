@@ -48,15 +48,7 @@
     </tr>
   </thead>
   <tbody>
-	<tr>
-      <td><p><a href="https://github.com/malboyoo/runtogether-front"><b>runtogether.fr - fullstack personnal project</b></a></p>
-	      <p> <a href="https//runtogether.fr">site preview: runtogether.fr</a></p></td>
-      <td><p>A personnal project made with the MERN stack (MongoDB, Express, React, NodeJS)</p>
-	      <p>I learned a lot with this project, having to manage all parts of the project alone was a real challenge. you can have a look to the front-end but for security issues the back-end will remain private (if you are recruiter you can ask an access)</p>
-	 </td>
-    </tr>
-	  
-	  
+
 	<tr>
       <td><p><a href="https://github.com/malboyoo/P7"><b>Openclassrooms - Project 7 (React)</b></a></p>
 	      <p><a href="https://warm-manatee-d0851e.netlify.app/">Site preview</a></p></td>
