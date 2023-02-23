@@ -3,10 +3,10 @@
 	<br/>
 	<br/>
 <p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
-<p>Actually in the end of my certifying training program and i'll be <b>available to work in December 2022.</b> 🐱‍💻<p>
+<p>I'm Actually working for <b>Actuelburo as a front-end developper</b> 🐱‍💻<p>
 <p>take a look at my <a href="CV - Thibaut Lefevre.pdf">Resume</a>📓, Made with HTML/CSS and exported in PDF.</p>
 
-<p><b>Current status: Open to work!</b> <i> I just finished last project of my certifying training program.
+<p><b>Current status: Busy</b> <i>
 </i></p>
 <p><i> I also finished a personnal project, you can check it here: <a href="https://runtogether.fr">runtogether.fr</a></i></p>
 
