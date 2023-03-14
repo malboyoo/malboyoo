@@ -3,12 +3,14 @@
 	<br/>
 	<br/>
 <p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
-<p>I'm Actually working for <b>Actuelburo as a front-end developper</b> 🐱‍💻<p>
-<p>take a look at my <a href="CV - Thibaut Lefevre.pdf">Resume</a>📓, Made with HTML/CSS and exported in PDF.</p>
+<p>I'm working for <b>Actuelburo as a front-end developper</b> since feb 2023 🐱‍💻<p>
 
 <p><b>Current status: Busy</b> <i>
 </i></p>
 <p><i> I also finished a personnal project, you can check it here: <a href="https://runtogether.fr">runtogether.fr</a></i></p>
+<p><i> my Portfolio: <a href="https://thibautlefevre.com/">thibautlefevre.com</a></i></p>
+
+
 
 
 
