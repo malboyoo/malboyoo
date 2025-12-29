@@ -2,7 +2,7 @@
 <h1><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png" width="30"/> Hey! 👋 Nice to see you.</h1>
 	<br/>
 	<br/>
-<p>Welcome to my page! </br> I'm Thibaut Lefevre, Junior developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
+<p>Welcome to my page! </br> I'm Thibaut Lefevre, developer from <b>Bordeaux, France</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
 <p>I'm working for <b>Actuelburo as a front-end developper</b> since feb 2023 🐱‍💻<p>
 
 <p><b>Current status: Busy</b> <i>
